@@ -15,5 +15,5 @@
 - Image Recognition
 
 ### 📫 How to reach me
-- linkedin: [click](https://www.linkedin.com/in/%EC%9D%B4%EC%96%B8-%EA%B9%80-16a96415a/)
-- email: kimiron518@gmail.com
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gyeong-hyeon-kim-3aa89817a/)](https://www.linkedin.com/in/%EC%9D%B4%EC%96%B8-%EA%B9%80-16a96415a/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardkkh@gmail.com)](mailto:kimiron518@gmail.com)
