@@ -6,10 +6,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=thisisiron&show_icons=true&theme=radical" alt="thisisiron" />
 </p>
 
-### 👨‍💻 Work Experience
-- Researcher, Intern, Naver Webtoon (2020.01 ~ 2020.06)
-- Deep learning developer, Intern, VoyageX (2019.07 ~ 2019.12)
-
 ### 🔥 Interest
 - GAN
 - Image Translation
