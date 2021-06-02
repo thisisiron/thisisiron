@@ -6,12 +6,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=thisisiron&show_icons=true&theme=radical" alt="thisisiron" />
 </p>
 
-### 🔥 Interest
-- GAN
-- Image Translation
-- Image Inpainting
-- Image Recognition
-
 ### 📚 Skill
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="linux" width="40" height="40"/>
