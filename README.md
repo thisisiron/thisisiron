@@ -2,7 +2,7 @@
 ## Eon Kim
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisisiron" alt="thisisiron" /> </p>
 
-### Stats
+### 💻 Stats
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=thisisiron&show_icons=true&theme=radical" alt="thisisiron" />
 </p>
