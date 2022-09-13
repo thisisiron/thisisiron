@@ -2,10 +2,9 @@
 ## Eon Kim
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisisiron" alt="thisisiron" /> </p>
 
-### 📈 Stats
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisisiron&show_icons=true&theme=radical" alt="thisisiron" />
-</p>
+### 👽 Profile
+- [Home](https://thisisiron.github.io/) [🏡](https://thisisiron.github.io/)
+- [Dacon](https://dacon.io/myprofile/90663/home)
 
 ### 🎮 Game
 <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=simpleisthebest"/>
