@@ -7,8 +7,8 @@
 - [Dacon](https://dacon.io/myprofile/90663/home)
 
 ### 🏆 Award
-- 3rd, 안전한 자율주행을 위한 인공지능 알고리즘 개발 챌린지 (2021.12)
 - 2nd, Small Object AI Challenge 2021 (2021.12)
+- 3rd, 안전한 자율주행을 위한 인공지능 알고리즘 개발 챌린지 (2021.12)
 - 4th, Vision Competition, Lotte Data Communication (2021.03)
 
 ### 🎮 Game
