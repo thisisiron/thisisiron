@@ -7,9 +7,12 @@
 - [Dacon](https://dacon.io/myprofile/90663/home)
 
 ### 🏆 Award
-- 2nd, Small Object AI Challenge 2021, 교통안전공단/사람과숲 (2021.12)
-- 3rd, 안전한 자율주행을 위한 인공지능 알고리즘 개발 챌린지, 과학기술정보통신부/한국지능정보사회진흥원/씨유박스 (2021.12)
-- 4th, Vision Competition, Lotte Data Communication (2021.03)
+
+| Rank | Task | Topic | Sponsor | Date |
+|------|-------|------|---------|------|
+| 2nd  | Object Detection     | Small Object AI Challenge 2021                    | 교통안전공단, 사람과숲                            | 2021.12 |
+| 3rd  | Object Detection     | 안전한 자율주행을 위한 인공지능 알고리즘 개발 챌린지  | 과학기술정보통신부, 한국지능정보사회진흥원, 씨유박스  | 2021.12 |
+| 4th  | Image Classification | Vision Competition                                | Lotte Data Communication                       | 2021.03 |
 
 ### 🎮 Game
 <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=simpleisthebest"/>
