@@ -10,8 +10,8 @@
 
 | Rank | Task | Topic | Sponsor | Date |
 |------|-------|------|---------|------|
-| 🥈 $$\textcolor{silver}{\text{2nd}}$$         | Object<br>Detection     | Small Object AI Challenge 2021                       | 교통안전공단, 사람과숲                                   | 2021.12 |
-| 🥉 $$\textcolor{darkgoldenrod}{\text{3rd}}$$  | Object<br>Detection     | 안전한 자율주행을 위한 <br>인공지능 알고리즘 개발 챌린지 | 과학기술정보통신부,<br>한국지능정보사회진흥원,<br> 씨유박스  | 2021.12 |
+| $$\text{🥈}$$ $$\textcolor{silver}{\text{2nd}}$$         | Object<br>Detection     | Small Object AI Challenge 2021                       | 교통안전공단, 사람과숲                                   | 2021.12 |
+| $$\text{🥉}$$ $$\textcolor{darkgoldenrod}{\text{3rd}}$$  | Object<br>Detection     | 안전한 자율주행을 위한 <br>인공지능 알고리즘 개발 챌린지 | 과학기술정보통신부,<br>한국지능정보사회진흥원,<br> 씨유박스  | 2021.12 |
 | $$\textcolor{tan}{\text{4th}}$$            | Image<br>Classification | 유통 진열 상품 약 1000종 대상 이미지 분류               | 롯데정보통신                                | 2021.03 |
 
 ### 🎮 Game
