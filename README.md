@@ -1,6 +1,6 @@
 
 ## Eon Kim
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thisisiron" alt="thisisiron" /> </p>
+![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{thisisiron}1212%2Fhit-counter)
 
 ### 👽 Profile
 - [Home](https://thisisiron.github.io/) [🏡](https://thisisiron.github.io/)
