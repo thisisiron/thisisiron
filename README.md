@@ -10,6 +10,7 @@
 
 | Rank | Task | Topic | Sponsor | Date |
 |:------:|-------|------|---------|------|
+| 🥉 $$\textcolor{darkgoldenrod}{\text{3rd}}$$  | Semantic<br>Segmentation     | 폐암 병리 슬라이드 이미지 세그멘테이션 | 아주대학교 산학협력단,<br>한국지능정보사회진흥원 | 2022.12 |
 | 🥈 $$\textcolor{silver}{\text{2nd}}$$         | Super<br>Resolution     | AI 양재 허브 <br>인공지능 오픈소스 경진대회    |  AI 양재 허브,<br>데이콘                                      | 2022.11 |
 | 🥈 $$\textcolor{silver}{\text{2nd}}$$         | Object<br>Detection     | Small Object AI Challenge 2021                | 과학기술정보통신부,<br>한국지능정보사회진흥원,<br> 씨유박스                                      | 2021.12 |
 | 🥉 $$\textcolor{darkgoldenrod}{\text{3rd}}$$  | Object<br>Detection     | 안전한 자율주행을 위한 <br>인공지능 알고리즘 개발 챌린지 | 교통안전공단, 사람과숲| 2021.12 |
