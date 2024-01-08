@@ -10,6 +10,7 @@
 
 | Rank | Task | Topic | Sponsor | Date |
 |:------:|:-------:|:------:|:---------:|:------:|
+| 🥈 | Object<br>Detection       | 어종(魚種) 식별 및 분류 알고리즘 개발      | 한국수자원공사,<br>AI Factory  | 2023.12 |
 | 🥉 | Object<br>Detection       | 위성영상을 활용한 정유탱크 탐지            | 한국항공우주연구원,<br>AI Factory  | 2023.08 |
 | 🥉 | Text<br>Recognition (OCR) | 2023 교원그룹 AI 챌린지                   | 교원,<br>데이콘  | 2023.02 |
 | 🥉 | Semantic<br>Segmentation  | 폐암 병리 슬라이드<br>이미지 세그멘테이션  | 아주대학교 산학협력단,<br>한국지능정보사회진흥원 | 2022.12 |
