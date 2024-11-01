@@ -5,7 +5,7 @@
 ### 👽 Profile
 - [Home](https://thisisiron.github.io/) [🏡](https://thisisiron.github.io/)
 - [Dacon](https://dacon.io/myprofile/90663/home) 📃
-- [HuggingFace](https://huggingface.co/thisisiron) <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height=15>
+- [HuggingFace](https://huggingface.co/thisisiron) 🤗
 
 ### 🏆 Award
 
