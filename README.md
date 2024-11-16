@@ -22,6 +22,3 @@
 
 ### 🎮 BOJ
 <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=simpleisthebest"/>
-
-### 📫 How to reach me
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardkkh@gmail.com)](mailto:kimiron518@gmail.com)
