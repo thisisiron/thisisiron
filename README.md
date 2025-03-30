@@ -1,6 +1,8 @@
+<p align="center">
+    <img width=80 src="kid_buu.gif"/>
+</p>
 
-## Eon Kim
-![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{thisisiron}1212%2Fhit-counter)
+# Eon Kim
 
 ### 👽 Profile
 - [Home](https://thisisiron.github.io/) [🏡](https://thisisiron.github.io/)
