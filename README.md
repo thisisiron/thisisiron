@@ -5,6 +5,12 @@
 # About Me
 [![simpleisthebest](http://mazassumnida.wtf/api/mini/generate_badge?boj=simpleisthebest)](https://solved.ac/simpleisthebest) [![hf](https://img.shields.io/badge/🤗 HuggingFace-thisisiron-yellow)](https://huggingface.co/thisisiron)
 
+
+🤗 Contributed Models to HF transformers:
+- Ovis2 from AIDC-AI
+
+
+
 ### 🏆 Award
 
 | Rank | Task | Topic | Sponsor | Date |
