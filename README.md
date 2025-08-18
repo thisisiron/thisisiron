@@ -2,12 +2,8 @@
     <img width=80 src="kid_buu.gif"/>
 </p>
 
-# Eon Kim
-
-### 👽 Profile
-- [Home](https://thisisiron.github.io/) [🏡](https://thisisiron.github.io/)
-- [Dacon](https://dacon.io/myprofile/90663/home) 📃
-- [HuggingFace](https://huggingface.co/thisisiron) 🤗
+# About Me
+[![simpleisthebest](http://mazassumnida.wtf/api/mini/generate_badge?boj=simpleisthebest)](https://solved.ac/simpleisthebest) [![hf](https://img.shields.io/badge/🤗 HuggingFace-thisisiron-yellow)](https://huggingface.co/thisisiron)
 
 ### 🏆 Award
 
@@ -20,6 +16,3 @@
 | 🥈 | Super<br>Resolution       | AI 양재 허브<br>인공지능 오픈소스 경진대회 |  AI 양재 허브,<br>데이콘 | 2022.11 |
 | 🥈 | Object<br>Detection       | Small Object AI Challenge 2021           | 과학기술정보통신부,<br>한국지능정보사회진흥원,<br> 씨유박스 | 2021.12 |
 | 🥉 | Object<br>Detection   | 안전한 자율주행을 위한 <br>인공지능 알고리즘 개발 챌린지 | 교통안전공단, 사람과숲  | 2021.12 |
-
-### 🎮 BOJ
-<img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=simpleisthebest"/>
