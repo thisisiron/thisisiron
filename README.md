@@ -8,7 +8,7 @@
 
 ### 🤗 Contributed Models to HF Transformers
 
-- **Ovis2** from AIDC-AI
+- [**Ovis2**](https://huggingface.co/docs/transformers/main/en/model_doc/ovis2) from AIDC-AI
 
 ### 🏆 Awards
 
