@@ -10,6 +10,7 @@
 
 ### 🤗 Contributed Models to HF Transformers
 
+- **DeepSeek-OCR2** from DeepSeek
 - [**Ovis2**](https://huggingface.co/docs/transformers/main/en/model_doc/ovis2) from AIDC-AI
 
 ### 🏆 Awards
